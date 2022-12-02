@@ -1,0 +1,12 @@
+[submodule "LeaveIt"]
+	path = LeaveIt
+	url = https://github.com/liuzc/LeaveIt.git
+[submodule "themes/LeaveIt"]
+	path = themes/LeaveIt
+	url = https://github.com/liuzc/LeaveIt.git
+[submodule "theme/LoveIt"]
+	path = theme/LoveIt
+	url = https://github.com/dillonzq/LoveIt
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt
